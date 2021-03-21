@@ -1,0 +1,16 @@
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+T:\Bootcamp MRV\projetoSeriesDio\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
